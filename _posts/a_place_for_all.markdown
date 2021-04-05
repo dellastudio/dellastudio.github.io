@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Landscape Design Studio 1"
-date:   2018
+date:   2018-10-08 15:39:40
 preview: holder.js/300x300?auto=yes
 ---
 
