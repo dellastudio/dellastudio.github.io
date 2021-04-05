@@ -2,7 +2,7 @@
 layout: post
 title:  "Landscape Design Studio 1"
 date:   2018-10-08 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: assets/first_page_300_300.jpg
 ---
 
 ![Picture 1](assets/first_page_300_300.jpg)
