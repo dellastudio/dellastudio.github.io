@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Landscape Design Studio 1"
+title:  "A place for all"
 date:   2018-10-08
 preview: assets/first_page_300_300.jpg
 ---
@@ -8,7 +8,7 @@ preview: assets/first_page_300_300.jpg
 <img src='http://www.dellastudio.com/assets/a_place_for_all_1.jpg'/>
 
 
-
+Landscape Design Studio 1
 
 Based on the concept of wellbeing and gathering as drivers of sustainability, economic growth and social development, this project gives an alternative to current designs of riverside parks in Elahie neighborhood.
 Located in the north of Tehran in the Shemiran region, Elahieh extends from the west to Valiasr Street (Pahlavi), from the south to the Parkway intersection and from the east to the Roman Bridge and the old Shemiran Road.
