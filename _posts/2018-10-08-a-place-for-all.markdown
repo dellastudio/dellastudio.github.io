@@ -7,7 +7,7 @@ preview: holder.js/300x300?auto=yes
 
 ![Picture 1](assets/first_page_300_300.jpg)
 
-<img src='assets/first_page_300_300.jpg'/>
+<img src='http://www.dellastudio.com/assets/first_page_300_300.jpg'/>
 
 Landscape Design Studio 1
 2018
