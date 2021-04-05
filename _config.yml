@@ -2,13 +2,9 @@
 title: Della Studio
 email: dellaram.rajabpour@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am Della, and this is my little studio.
-  Here you find my works and projects and sometimes my interests and hobbies.
-  As a landscape architect with a masters degree, Im fascinated by anything related to fine arts and handicrafts.
+  A wonderful mysterious place to find Della Studio arts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.dellastudio.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 instagram_username: Dellaramra
 
 # Build settings
