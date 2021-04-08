@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A wonderful mysterious place to find Della Studio arts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.dellastudio.com" # the base hostname & protocol for your site
-instagram_username: Dellaramra
+instagram_username: dellaramra
 linkedin_username: delaram-rajabpour
 
 # Build settings
