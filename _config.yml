@@ -2,7 +2,7 @@
 title: Della Studio
 email: dellaram.rajabpour@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A wonderful mysterious place to find Della Studio arts.
+  A wonderful mysterious place to find Della Studio's arts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.dellastudio.com" # the base hostname & protocol for your site
 instagram_username: dellaramra
