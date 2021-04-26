@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In Between"
+title:  "Digital Artworks"
 date:   2021-01-08
 preview: assets/digitalartwork/digitalartwork.jpg
 ---
