@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In Between"
+title:  "Nothingness"
 date:   2018-10-08
 preview: assets/nothingness/nothingness.jpg
 ---
