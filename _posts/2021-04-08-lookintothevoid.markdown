@@ -6,7 +6,7 @@ preview: assets/lookintothevoid/lookintothevoid.jpg
 ---
 
 reclamation and landscape design in urban brownfields <br>
-- case study Rasht-Electric factory- <br>
+- case study Rasht-Electric factory - <br>
 Master Thesis | 2021 <br>
 
 Abandoned land of the former Rasht-Electric Factory, which is now the realm of nature, was one of the largest state-owned factories in Rasht with a history of 50 years and an area of more than 12 hectares. It was located in the suburban area of the city near the Mohtasham Garden, one of the most famous gardens in Rasht.
