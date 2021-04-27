@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In Between"
+title:  "In-Between"
 date:   2019-10-08
 preview: assets/inbetween_first_page.jpg
 ---
@@ -8,10 +8,10 @@ preview: assets/inbetween_first_page.jpg
 <img src='http://www.dellastudio.com/assets/inbetween01.jpg'/>
 
 
-Landscape Design Studio 3 <br>
+
 Shahriar Street Landscape design <br>
-" in-between"  <br>
-2019 <br>
+Landscape Design Studio 3 | 2019 <br>
+
 
 Shahriar Street lies in between two cultural zones; the Rudaki hall and the City Theater. With the history behind them, they add some significance to the neighborhood. This project aims to connect these two zones without ruining the residential area. And this goal needs to concentrate on the aspects of the neighborhood and how it reacts toward the city.
 
