@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wet Land"
+title:  "Balloons and the lake"
 date:   2021-07-01
 preview: assets/wet-land/0_first_page.jpg
 ---
