@@ -8,12 +8,12 @@ preview: assets/wet-land/0_first_page.jpg
 <img src='http://www.dellastudio.com/assets/wet-land/1_first_picture.jpg'/>
 
 A proposal and feasibility study for the construction and operation of part of the 14-hectare park
-- with the cooperation of Rasht Municipality Investment and Public Cooperation Organization
+with the cooperation of Rasht Municipality Investment and Public Cooperation Organization
 
-Daresh architectural office
-Design by:
-Dr. Saman Saba
-Delaram Rajabpour
+Daresh architectural office <br>
+Design by: <br>
+Dr. Saman Saba <br>
+Delaram Rajabpour <br><br><br>
 
 
 <img src='http://www.dellastudio.com/assets/wet-land/002.jpg'/>
